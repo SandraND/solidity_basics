@@ -11,3 +11,5 @@ List of explanation files:
   * Examples of arrays in solidity, with some brief explanations.
 * Mappings.sol
   * Examples of mappings in solidity, with some brief explanations.
+* Conditionals.sol
+   * Examples of conditionals in solidity, with some brief explanations.
