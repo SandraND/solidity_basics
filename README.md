@@ -13,3 +13,5 @@ List of explanation files:
   * Examples of mappings in solidity, with some brief explanations.
 * Conditionals.sol
    * Examples of conditionals in solidity, with some brief explanations.
+* Enum.sol
+   * Examples of enumerated lists in solidity, with some brief explanations.
