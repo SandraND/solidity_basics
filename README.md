@@ -15,3 +15,5 @@ List of explanation files:
    * Examples of conditionals in solidity, with some brief explanations.
 * Enum.sol
    * Examples of enumerated lists in solidity, with some brief explanations.
+* SimpleStorage.sol
+   * Examples of storage in solidity.
