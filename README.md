@@ -19,3 +19,5 @@ List of explanation files:
    * Examples of storage in solidity.
 * RentCar.sol
     * Example of a simple contract that rents a car using solidity, with some brief explanations.
+* RentCar2.sol
+    * Example of a contract that rents a car using solidity, this time using events, modifiers and external receive functions.
