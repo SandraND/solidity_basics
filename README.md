@@ -17,3 +17,5 @@ List of explanation files:
    * Examples of enumerated lists in solidity, with some brief explanations.
 * SimpleStorage.sol
    * Examples of storage in solidity.
+* RentCar.sol
+    * Example of a simple contract that rents a car using solidity, with some brief explanations.
